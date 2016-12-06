@@ -1,4 +1,4 @@
-# mocloud-procfile
+# It's easy to Migrate from Heroku to moCloud by using procfile
 
 ## 1. Create Your Account
 - Access to [moCloud](https://mocloud.io). 
@@ -8,7 +8,7 @@
 ## 2. Fork This Repository to your own
 
 ## 3. Launch Container
-- Launch `Procfile Aoos` Container on moCloud Console.
+- Launch `Procfile Apps` Container on moCloud Console.
 
 ## 4. Setup and Deploy Application
 - Connect your forked repository on your GitHub to deploy.
