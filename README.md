@@ -1,4 +1,4 @@
-# mocloud-procfile-demo
+# mocloud-procfile
 
 ## 1. Create Your Account
 - Access to [moCloud](https://mocloud.io). 
